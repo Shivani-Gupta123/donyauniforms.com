@@ -341,7 +341,7 @@ b, strong {
 }
 
 /*** back to top **/
-.back-to-top {
+/* .back-to-top {
   background-color: rgba(52, 143, 255, 0.9);
   width: 45px;
   height: 45px;
@@ -362,7 +362,7 @@ b, strong {
   -o-border-radius: 3px;
   -ms-border-radius: 3px;
   border-radius: 3px;
-}
+} */
 
 @media (max-width: 991px) {
   .back-to-top {
@@ -467,7 +467,7 @@ b, strong {
   font-size: 1.2rem;
   font-weight: normal;
   display: block;
-  color: #ffbd34;
+  color: #1e3ab8;
   text-transform: uppercase;
 }
 
@@ -522,7 +522,7 @@ b, strong {
   content: "";
   width: 35px;
   height: 5px;
-  background: #ffbd34;
+  background: #3437ff;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -534,7 +534,7 @@ b, strong {
 
 .theme-btn, .theme-btn-s2, .theme-btn-s3, .theme-btn-s4 {
   font-family: "Oswald", sans-serif;
-  background-color: #ffbd34;
+  background-color: #2455cf;
   height: 47px;
   line-height: 47px;
   font-size: 16px;
@@ -557,7 +557,7 @@ b, strong {
 }
 
 .theme-btn:hover, .theme-btn-s2:hover, .theme-btn-s3:hover, .theme-btn-s4:hover, .theme-btn:focus, .theme-btn-s2:focus, .theme-btn-s3:focus, .theme-btn-s4:focus, .theme-btn:active, .theme-btn-s2:active, .theme-btn-s3:active, .theme-btn-s4:active {
-  background-color: #ffac01;
+  background-color: #242fd2;
   color: #fff;
 }
 
@@ -577,7 +577,7 @@ b, strong {
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border: 2px solid #ffbd34;
+  border: 2px solid #3033c8;
   border-radius: 0;
   line-height: 45px;
 }
@@ -589,7 +589,7 @@ b, strong {
 }
 
 .theme-btn-s3:hover, .theme-btn-s3:focus, .theme-btn-s3:active {
-  background-color: #ffbd34;
+  background-color: #3e4dc5;
   color: #fff;
 }
 
@@ -616,12 +616,12 @@ b, strong {
 .form input:focus,
 .form textarea:focus,
 .form select:focus {
-  border-color: #ffbd34;
-  -webkit-box-shadow: 0 0 5px 0 #ffce67;
-  -moz-box-shadow: 0 0 5px 0 #ffce67;
-  -o-box-shadow: 0 0 5px 0 #ffce67;
-  -ms-box-shadow: 0 0 5px 0 #ffce67;
-  box-shadow: 0 0 5px 0 #ffce67;
+  border-color: #2027a5;
+  -webkit-box-shadow: 0 0 5px 0 #2027a5;
+  -moz-box-shadow: 0 0 5px 0 #2027a5;
+  -o-box-shadow: 0 0 5px 0 #2027a5;
+  -ms-box-shadow: 0 0 5px 0 #2027a5;
+  box-shadow: 0 0 5px 0 #2027a5;
 }
 
 .form ::-webkit-input-placeholder {
@@ -703,7 +703,7 @@ b, strong {
 	background: url("../images/page-title.jpg") center center/cover no-repeat local;
 }
 .con{
-	background: url("../images/page-title-2.jpg") center center/cover no-repeat local;
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iixTnS38TKiES2NcUdU_BRBp-uDQC6JKaA&s") center center/cover no-repeat local;
 }
 .franchise{
 	background: url("../images/franchise.jpg") center center/cover no-repeat local;
@@ -827,7 +827,7 @@ b, strong {
 }
 
 .page-title .breadcrumb li a {
-  color: #ffbd34;
+  color: #3041c9;
 }
 
 .page-title .breadcrumb li a:hover {
@@ -837,7 +837,7 @@ b, strong {
 .page-title .breadcrumb > li + li:before {
   font-family: "themify";
   content: "\e628";
-  color: #ffbd34;
+  color: #3461c8;
   margin-right: 5px;
 }
 
