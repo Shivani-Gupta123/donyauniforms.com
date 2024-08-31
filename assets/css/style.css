@@ -376,7 +376,7 @@ b, strong {
   background-color: #ffbd34;
 }
 
-.back-to-top i {
+/* .back-to-top i {
   font-size: 18px;
   font-size: 1.2rem;
   color: #fff;
@@ -388,7 +388,7 @@ b, strong {
   -o-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
+} */
 
 /** for popup image ***/
 .mfp-wrap {
@@ -730,7 +730,7 @@ b, strong {
 	background: url("../images/page-title-9.jpg") center center/cover no-repeat local;
 }
 .trm{
-	background: url("../images/page-title-10.jpg") center center/cover no-repeat local;
+	background: url("https://cdn-images-1.medium.com/max/878/1*4l57WUGbi2arBVbfovh4og.png") center center/cover no-repeat local;
 }
 .blg{
 	background: url("../images/page-title-11.jpg") center center/cover no-repeat local;
